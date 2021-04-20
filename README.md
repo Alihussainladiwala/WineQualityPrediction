@@ -27,7 +27,7 @@ Given a set of input paramters such as pH, Alcohol etc, this project aims at pre
 -  Average
 -  High
 
-we aim to do so by trying different predictive algorithms on the data and examine the results.
+we aim to do so by trying different predictive algorithms and coming up with the right one based on the results.
 
 
  

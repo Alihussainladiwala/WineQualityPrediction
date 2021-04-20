@@ -18,8 +18,6 @@ There are 1599 samples of red wine and 4898 samples of white wine in the data se
 -  Alcohol
 -  Quality (score between 0 and 10)
 
-The study context is to try different predictive algorithms on the data and examine the results.
-
 ### Abstract:
 
 Given a set of input paramters such as pH, Alcohol etc, this project aims at predicting the quality of wine by categorizing it under the following user friendly labels:

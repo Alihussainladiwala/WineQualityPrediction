@@ -42,7 +42,7 @@ def visualize_confidence_level(prediction_proba):
     ax.set_xlabel(" Percentage(%) Confidence Level", labelpad=2, weight='bold', size=12)
     ax.set_ylabel("Wine Quality", labelpad=10, weight='bold', size=12)
     ax.set_title('Prediction Confidence Level ', fontdict=None, loc='center', pad=None, weight='bold')
-
+    st.set_option('deprecation.showPyplotGlobalUse', False)
     st.pyplot()
     return
 
